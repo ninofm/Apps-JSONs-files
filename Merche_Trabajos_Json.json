@@ -23,8 +23,8 @@
       "name": "Peinados",
       "photoUrl": "https://raw.githubusercontent.com/ninofm/Merche-WebSites-Images/refs/heads/main/Inicio/peinados.webp",
       "price": "Desde 25£",
-      "beforeImageUrl": "25£",
-      "afterImageUrl": "25£",
+      "beforeImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/color/color11.webp",
+      "afterImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/color/color12.webp",
       "description": "Precio depende de la elaboracion. \nCabello muy cortos. 25£<br> Cabellos cortos. 30£ \nCabello medio. 35£ \nCabello largo. 40£"
     },
     {
@@ -41,8 +41,8 @@
       "name": "Mechas",
       "photoUrl": "https://raw.githubusercontent.com/ninofm/Merche-WebSites-Images/refs/heads/main/Inicio/mechas.webp",
       "price": "Desde 50£",
-      "beforeImageUrl": "25£",
-      "afterImageUrl": "25£",
+      "beforeImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/color/color11.webp",
+      "afterImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/color/color12.webp",
       "description": "Precio depende de la longitud del cabello. \nCabello muy corto. 50£ \nCabello corto. 60£ \nCabello medio. 70£ \nCabello largo. 90£"
     },
     {
@@ -68,8 +68,8 @@
       "name": "Tinte y Mechas",
       "photoUrl": "https://raw.githubusercontent.com/ninofm/Merche-WebSites-Images/refs/heads/main/Inicio/tinte%20y%20mechas.webp",
       "price": "Desde 100£",
-      "beforeImageUrl": "25£",
-      "afterImageUrl": "25£",
+      "beforeImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/color/color11.webp",
+      "afterImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/color/color12.webp",
       "description": "Precio depende de la longitud del cabello. \nCabello medio. 100£ \nCabello largo. 120£"
     },
     {
@@ -77,8 +77,8 @@
       "name": "Balayage",
       "photoUrl": "https://raw.githubusercontent.com/ninofm/Merche-WebSites-Images/refs/heads/main/Inicio/balayage.webp",
       "price": "130£",
-      "beforeImageUrl": "25£",
-      "afterImageUrl": "25£",
+      "beforeImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/color/color11.webp",
+      "afterImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/color/color12.webp",
       "description": "Precio para todas las longitudes de cabello. \nHidratación Intensa. \nReparación Profunda. \nReducción del Frizz. \nBrillo y Suavidad."
     },
     {
@@ -86,8 +86,8 @@
       "name": "Mascarilla Botox",
       "photoUrl": "https://raw.githubusercontent.com/ninofm/Merche-WebSites-Images/refs/heads/main/Inicio/mascarillabotox.webp",
       "price": "70£",
-      "beforeImageUrl": "25£",
-      "afterImageUrl": "25£",
+      "beforeImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/color/color11.webp",
+      "afterImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/color/color12.webp",
       "description": "Mismo precio para todos los cabellos. \nHidratación Profunda. \nReparación de Daños. \nReducción del Frizz. \nFortalecimiento del Cabello."
     }
   ]
