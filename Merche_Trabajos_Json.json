@@ -32,8 +32,8 @@
       "name": "Tinte",
       "photoUrl": "https://raw.githubusercontent.com/ninofm/Merche-WebSites-Images/refs/heads/main/Inicio/color.webp",
       "price": "Desde 65£",
-      "beforeImageUrl": "25£",
-      "afterImageUrl": "25£",
+      "beforeImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/color/color11.webp",
+      "afterImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/color/color12.webp",
       "description": "Precio depende de la longitud del cabello. \nCabello corto. 65£ \nCabello medio. 75£ \nCabello largo. 85£"
     },
     {
