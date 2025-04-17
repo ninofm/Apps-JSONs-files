@@ -5,8 +5,8 @@
       "name": "Corte",
       "photoUrl": "https://raw.githubusercontent.com/ninofm/Merche-WebSites-Images/refs/heads/main/Inicio/corte.webp",
       "price": "25£",
-      "beforeImageUrl": "25£",
-      "afterImageUrl": "25£",
+      "beforeImageUrl": "https://github.com/ninofm/Photos-App-BeforeAfter/blob/main/commingsoon/coming-soon-neon.jpg",
+      "afterImageUrl": "https://github.com/ninofm/Photos-App-BeforeAfter/blob/main/commingsoon/coming-soon-neon2.jpg",
       "description": "Precio para todas las longitudes de cabello. \nReserve su cita en este App. \nReserve su cita online."
     },
     {
@@ -14,8 +14,8 @@
       "name": "Corte y Peinado",
       "photoUrl": "https://raw.githubusercontent.com/ninofm/Merche-WebSites-Images/refs/heads/main/Inicio/corteypeinado.webp",
       "price": "Desde 40£",
-      "beforeImageUrl": "25£",
-      "afterImageUrl": "25£",
+      "beforeImageUrl": "https://github.com/ninofm/Photos-App-BeforeAfter/blob/main/commingsoon/coming-soon-neon.jpg",
+      "afterImageUrl": "https://github.com/ninofm/Photos-App-BeforeAfter/blob/main/commingsoon/coming-soon-neon2.jpg",
       "description": "Precio depende de la longitud del cabello. \nCabello corto. 40£ \nCabello medio. 50£ \nCabello largo. 60£"
     },
     {
@@ -41,8 +41,8 @@
       "name": "Mechas",
       "photoUrl": "https://raw.githubusercontent.com/ninofm/Merche-WebSites-Images/refs/heads/main/Inicio/mechas.webp",
       "price": "Desde 50£",
-      "beforeImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/color/color11.webp",
-      "afterImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/color/color12.webp",
+      "beforeImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/mechas/mechas1a.webp",
+      "afterImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/mechas/mechas1b.webp",
       "description": "Precio depende de la longitud del cabello. \nCabello muy corto. 50£ \nCabello corto. 60£ \nCabello medio. 70£ \nCabello largo. 90£"
     },
     {
