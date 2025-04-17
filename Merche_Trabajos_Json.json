@@ -5,8 +5,8 @@
       "name": "Corte",
       "photoUrl": "https://raw.githubusercontent.com/ninofm/Merche-WebSites-Images/refs/heads/main/Inicio/corte.webp",
       "price": "25£",
-      "beforeImageUrl": "https://github.com/ninofm/Photos-App-BeforeAfter/blob/main/commingsoon/coming-soon-neon.jpg",
-      "afterImageUrl": "https://github.com/ninofm/Photos-App-BeforeAfter/blob/main/commingsoon/coming-soon-neon2.jpg",
+      "beforeImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/commingsoon/coming-soon-neon.webp",
+      "afterImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/commingsoon/coming-soon-neon2.webp",
       "description": "Precio para todas las longitudes de cabello. \nReserve su cita en este App. \nReserve su cita online."
     },
     {
@@ -14,8 +14,8 @@
       "name": "Corte y Peinado",
       "photoUrl": "https://raw.githubusercontent.com/ninofm/Merche-WebSites-Images/refs/heads/main/Inicio/corteypeinado.webp",
       "price": "Desde 40£",
-      "beforeImageUrl": "https://github.com/ninofm/Photos-App-BeforeAfter/blob/main/commingsoon/coming-soon-neon.jpg",
-      "afterImageUrl": "https://github.com/ninofm/Photos-App-BeforeAfter/blob/main/commingsoon/coming-soon-neon2.jpg",
+      "beforeImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/commingsoon/coming-soon-neon.webp",
+      "afterImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/commingsoon/coming-soon-neon2.webp",
       "description": "Precio depende de la longitud del cabello. \nCabello corto. 40£ \nCabello medio. 50£ \nCabello largo. 60£"
     },
     {
@@ -77,8 +77,8 @@
       "name": "Balayage",
       "photoUrl": "https://raw.githubusercontent.com/ninofm/Merche-WebSites-Images/refs/heads/main/Inicio/balayage.webp",
       "price": "130£",
-      "beforeImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/color/color11.webp",
-      "afterImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/color/color12.webp",
+      "beforeImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/commingsoon/coming-soon-neon.webp",
+      "afterImageUrl": "https://raw.githubusercontent.com/ninofm/Photos-App-BeforeAfter/refs/heads/main/commingsoon/coming-soon-neon2.webp",
       "description": "Precio para todas las longitudes de cabello. \nHidratación Intensa. \nReparación Profunda. \nReducción del Frizz. \nBrillo y Suavidad."
     },
     {
